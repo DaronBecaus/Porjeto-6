@@ -1,7 +1,7 @@
 function trocaCor() {
-  document.getElementById("hover").style.backgroundColor = "red";
+  document.getElementById("hover").style.backgroundColor = "rgb(208, 226, 43)";
 }
 
 function voltaCor() {
-  document.getElementById("hover").style.backgroundColor = "blueviolet";
+  document.getElementById("hover").style.backgroundColor = "blue";
 }

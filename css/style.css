@@ -3,3 +3,16 @@
     padding: 0;
     margin: 0;
 }
+
+h1 {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+#hover {
+    width: 200px; 
+    height: 200px; 
+    background-color: rgb(43, 226, 195);
+    border-radius: 30px;
+    border: 1px solid black;
+}
